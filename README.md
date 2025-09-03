@@ -1,4 +1,4 @@
-# Roman Clock 🕰️
+# RomanClock - 罗马时钟 🕰️
 
 一个优雅的 SwiftUI 罗马数字时钟应用，结合了经典罗马数字表盘和现代数字时间显示。
 
@@ -14,7 +14,7 @@
 
 ## 屏幕截图
 
-<img src="screenshot.png" alt="screenshot" style="width:360px;" align="left" />
+<img src="screenshot.png" alt="screenshot" style="width:360px;" />
 
 ## 支持
 
